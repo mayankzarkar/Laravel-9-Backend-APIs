@@ -71,8 +71,8 @@ A modular, multi-tenant backend API boilerplate built with Laravel 9, designed t
 
 ## Project Structure
 
-- `app/Services/` - Business logic for main entities.
-- `app/Models/` - Eloquent models.
-- `app/Requests/` - Form request validation.
-- `database/seeders/` - Seeder classes for roles, tenants, posts, etc.
-- `routes/api.php` - API routes.
+- `app/Services/` - Business logic for main entities
+- `app/Models/` - Eloquent models
+- `app/Requests/` - Form request validation
+- `database/seeders/` - Seeder classes for roles, tenants, posts, etc
+- `routes/api.php` - API routes
